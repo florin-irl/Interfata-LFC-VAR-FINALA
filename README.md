@@ -2,9 +2,9 @@
 
 Membrii echipei:
 
-Ivana Florin-Andrei
-Mițoi Alex-Gabriel
-Măndoiu Vlad-Ștefan
+Ivana Florin-Andrei <br>
+Mițoi Alex-Gabriel <br>
+Măndoiu Vlad-Ștefan <br>
 
 Controale și info:
 
